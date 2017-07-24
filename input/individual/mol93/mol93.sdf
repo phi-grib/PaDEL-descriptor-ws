@@ -1,0 +1,65 @@
+n-butanol
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 15 14  0  0  0  0  0  0  0  0999 V2000
+    2.5511   -0.3199    0.0000 C   0  0  0  0  0
+    1.2871    0.5422   -0.0000 C   0  0  0  0  0
+    0.0529   -0.3621    0.0000 C   0  0  0  0  0
+   -1.2110    0.5000   -0.0000 C   0  0  0  0  0
+   -2.3637   -0.3447    0.0000 O   0  0  0  0  0
+    3.4303    0.3244   -0.0000 H   0  0  0  0  0
+    2.5617   -0.9491    0.8900 H   0  0  0  0  0
+    2.5617   -0.9491   -0.8900 H   0  0  0  0  0
+    1.2764    1.1714    0.8900 H   0  0  0  0  0
+    1.2764    1.1714   -0.8900 H   0  0  0  0  0
+    0.0636   -0.9914   -0.8900 H   0  0  0  0  0
+    0.0636   -0.9913    0.8900 H   0  0  0  0  0
+   -1.2217    1.1292    0.8900 H   0  0  0  0  0
+   -1.2217    1.1292   -0.8900 H   0  0  0  0  0
+   -3.2031    0.1354   -0.0000 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  2  3  1  0  0  0
+  2  9  1  0  0  0
+  2 10  1  0  0  0
+  3  4  1  0  0  0
+  3 11  1  0  0  0
+  3 12  1  0  0  0
+  4  5  1  0  0  0
+  4 13  1  0  0  0
+  4 14  1  0  0  0
+  5 15  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+alcohol dehydrogenase
+
+>  <activity>
+-9.8
+
+>  <molID>
+mol000135
+
+>  <name>
+n-butanol
+
+>  <reference>
+Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+CCCCO
+
+>  <inchi>
+InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3
+
+>  <inchikey>
+LRHPLDYGYMQRHN-UHFFFAOYSA-N
+
+$$$$

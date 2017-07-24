@@ -1,0 +1,62 @@
+2,4-dichlorophenol
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    2.4189   -1.5287   -0.0227 O   0  0  0  0  0
+    1.1472   -1.0483   -0.0150 C   0  0  0  0  0
+    0.9218    0.3213   -0.0062 C   0  0  0  0  0
+    2.2636    1.4227   -0.0050 Cl  0  0  0  0  0
+   -0.3725    0.8075    0.0012 C   0  0  0  0  0
+   -1.4418   -0.0703   -0.0002 C   0  0  0  0  0
+   -3.0661    0.5423    0.0091 Cl  0  0  0  0  0
+   -1.2184   -1.4359   -0.0094 C   0  0  0  0  0
+    0.0732   -1.9259   -0.0217 C   0  0  0  0  0
+    2.7903   -1.6729    0.8584 H   0  0  0  0  0
+   -0.5488    1.8730    0.0084 H   0  0  0  0  0
+   -2.0547   -2.1193   -0.0109 H   0  0  0  0  0
+    0.2466   -2.9918   -0.0288 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1 10  1  0  0  0
+  2  3  2  0  0  0
+  2  9  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  5  6  2  0  0  0
+  5 11  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  8  9  2  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+monooxygenase; dehalogenase
+
+>  <activity>
+-9.8
+
+>  <molID>
+mol000051
+
+>  <name>
+2,4-dichlorophenol
+
+>  <reference>
+Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+Oc1ccc(Cl)cc1Cl
+
+>  <inchi>
+InChI=1S/C6H4Cl2O/c7-4-1-2-6(9)5(8)3-4/h1-3,9H
+
+>  <inchikey>
+HFZWRUODUSTPEG-UHFFFAOYSA-N
+
+$$$$

@@ -1,0 +1,47 @@
+trichloroethylene
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+  6  5  0  0  0  0  0  0  0  0999 V2000
+   -2.1674   -0.4885   -0.0001 Cl  0  0  0  0  0
+   -0.5115   -1.0098   -0.0001 C   0  0  0  0  0
+    0.4572   -0.1215   -0.0000 C   0  0  0  0  0
+    0.0807    1.5732    0.0001 Cl  0  0  0  0  0
+    2.1130   -0.6428   -0.0001 Cl  0  0  0  0  0
+   -0.2774   -2.0641    0.0043 H   0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  2  0  0  0
+  2  6  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+dehalogenase
+
+>  <activity>
+-11.6
+
+>  <molID>
+mol000111
+
+>  <name>
+trichloroethylene
+
+>  <reference>
+Capel and Larson (1995)
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+ClC=C(Cl)Cl
+
+>  <inchi>
+InChI=1S/C2HCl3/c3-1-2(4)5/h1H
+
+>  <inchikey>
+XSTXAVWGXDQKEL-UHFFFAOYSA-N
+
+$$$$

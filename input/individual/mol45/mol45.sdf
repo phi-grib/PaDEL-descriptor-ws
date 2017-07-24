@@ -1,0 +1,47 @@
+vinyl chloride
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+  6  5  0  0  0  0  0  0  0  0999 V2000
+   -0.9474    0.0787    0.0000 Cl  0  0  0  0  0
+    0.6807   -0.5237   -0.0005 C   0  0  0  0  0
+    1.6899    0.3141    0.0001 C   0  0  0  0  0
+    0.8626   -1.5882    0.0032 H   0  0  0  0  0
+    2.7028   -0.0607   -0.0002 H   0  0  0  0  0
+    1.5080    1.3786    0.0009 H   0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  3  5  1  0  0  0
+  3  6  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+monooxygenase
+
+>  <activity>
+-11
+
+>  <molID>
+mol000059
+
+>  <name>
+vinyl chloride
+
+>  <reference>
+Capel and Larson (1995); Howard: Handbook of Environmental Degradation Rates
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+C=CCl
+
+>  <inchi>
+InChI=1S/C2H3Cl/c1-2-3/h2H,1H2
+
+>  <inchikey>
+BZHJMEDXRYGGRV-UHFFFAOYSA-N
+
+$$$$

@@ -1,0 +1,65 @@
+tert-butanol
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 15 14  0  0  0  0  0  0  0  0999 V2000
+    0.3777    1.2493    0.7929 C   0  0  0  0  0
+   -0.0144   -0.0000    0.0014 C   0  0  0  0  0
+    0.3779   -1.2492    0.7929 C   0  0  0  0  0
+   -1.5260   -0.0001   -0.2354 C   0  0  0  0  0
+    0.6647    0.0001   -1.2559 O   0  0  0  0  0
+    1.4546    1.2494    0.9616 H   0  0  0  0  0
+    0.0982    2.1392    0.2290 H   0  0  0  0  0
+   -0.1403    1.2492    1.7520 H   0  0  0  0  0
+   -0.1401   -1.2493    1.7520 H   0  0  0  0  0
+    0.0986   -2.1392    0.2290 H   0  0  0  0  0
+    1.4548   -1.2491    0.9616 H   0  0  0  0  0
+   -1.8055    0.8898   -0.7993 H   0  0  0  0  0
+   -1.8053   -0.8901   -0.7993 H   0  0  0  0  0
+   -2.0440   -0.0002    0.7236 H   0  0  0  0  0
+    1.6289    0.0001   -1.1821 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  3  9  1  0  0  0
+  3 10  1  0  0  0
+  3 11  1  0  0  0
+  4 12  1  0  0  0
+  4 13  1  0  0  0
+  4 14  1  0  0  0
+  5 15  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+monooxygenase
+
+>  <activity>
+-11
+
+>  <molID>
+mol000023
+
+>  <name>
+tert-butanol
+
+>  <reference>
+Howard: Handbook of Environmental Degradation Rates; Capel and Larson (1995); Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+CC(C)(C)O
+
+>  <inchi>
+InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3
+
+>  <inchikey>
+DKGAVHZHDRPRBM-UHFFFAOYSA-N
+
+$$$$

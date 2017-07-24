@@ -1,0 +1,9 @@
+#!/bin/bash
+
+PID=$(<"/opt/padel/padel218ws/target/universal/stage/RUNNING_PID")
+echo $PID
+kill -9 $PID
+if [ $? -ne 0 ]; then 
+ rm -f /opt/padel/padel218ws/target/universal/stage/RUNNING_PID
+fi
+

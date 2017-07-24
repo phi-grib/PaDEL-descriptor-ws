@@ -1,0 +1,68 @@
+4-chloro-m-cresol
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    1.0503    2.1625   -0.0018 C   0  0  0  0  0
+    0.1822    0.9306   -0.0067 C   0  0  0  0  0
+    0.7634   -0.3247   -0.0018 C   0  0  0  0  0
+    2.4925   -0.4794    0.0099 Cl  0  0  0  0  0
+   -0.0317   -1.4574   -0.0059 C   0  0  0  0  0
+   -1.4075   -1.3364   -0.0147 C   0  0  0  0  0
+   -1.9924   -0.0783   -0.0196 C   0  0  0  0  0
+   -3.3462    0.0428   -0.0278 O   0  0  0  0  0
+   -1.1938    1.0558   -0.0102 C   0  0  0  0  0
+    1.2665    2.4587   -1.0282 H   0  0  0  0  0
+    0.5287    2.9725    0.5080 H   0  0  0  0  0
+    1.9836    1.9471    0.5185 H   0  0  0  0  0
+    0.4239   -2.4366   -0.0025 H   0  0  0  0  0
+   -2.0277   -2.2206   -0.0182 H   0  0  0  0  0
+   -3.7432    0.0788    0.8532 H   0  0  0  0  0
+   -1.6472    2.0360   -0.0136 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  1 12  1  0  0  0
+  2  3  2  0  0  0
+  2  9  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  5  6  2  0  0  0
+  5 13  1  0  0  0
+  6  7  1  0  0  0
+  6 14  1  0  0  0
+  7  8  1  0  0  0
+  7  9  2  0  0  0
+  8 15  1  0  0  0
+  9 16  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+monooxygenas; methyl hydroxylase; dehalogenase
+
+>  <activity>
+-10.7
+
+>  <molID>
+mol000053
+
+>  <name>
+4-chloro-m-cresol
+
+>  <reference>
+Mackay handbook of physical-chemical properties; Mĥndel (2009); ECHA (2016)
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+Cc1cc(O)ccc1Cl
+
+>  <inchi>
+InChI=1S/C7H7ClO/c1-5-4-6(9)2-3-7(5)8/h2-4,9H,1H3
+
+>  <inchikey>
+CFKMVGJGLGKFKI-UHFFFAOYSA-N
+
+$$$$

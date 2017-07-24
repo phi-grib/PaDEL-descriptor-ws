@@ -1,0 +1,51 @@
+acrolein (2-propenal)
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    1.8221   -0.1426   -0.0003 C   0  0  0  0  0
+    0.6175    0.4319    0.0001 C   0  0  0  0  0
+   -0.5878   -0.3966   -0.0002 C   0  0  0  0  0
+   -1.6829    0.1256    0.0001 O   0  0  0  0  0
+    2.7121    0.4692   -0.0001 H   0  0  0  0  0
+    1.9069   -1.2193    0.0037 H   0  0  0  0  0
+    0.5327    1.5085    0.0006 H   0  0  0  0  0
+   -0.5030   -1.4733   -0.0008 H   0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1  6  1  0  0  0
+  2  3  1  0  0  0
+  2  7  1  0  0  0
+  3  4  2  0  0  0
+  3  8  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+aldehyde dehydrogenase
+
+>  <activity>
+-9.8
+
+>  <molID>
+mol000122
+
+>  <name>
+acrolein (2-propenal)
+
+>  <reference>
+Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+C=CC=O
+
+>  <inchi>
+InChI=1S/C3H4O/c1-2-3-4/h2-3H,1H2
+
+>  <inchikey>
+HGINCPLSRVDWNT-UHFFFAOYSA-N
+
+$$$$

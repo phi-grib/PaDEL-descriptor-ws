@@ -1,0 +1,62 @@
+2-nitropropane
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    1.3856    1.2492    0.0260 C   0  0  0  0  0
+    0.6676    0.0001   -0.4888 C   0  0  0  0  0
+    1.3856   -1.2492    0.0256 C   0  0  0  0  0
+   -0.7167   -0.0000   -0.0094 N   0  0  0  0  0
+   -1.6374    0.0001   -0.8068 O   0  0  0  0  0
+   -0.9470   -0.0002    1.1867 O   0  0  0  0  0
+    2.4155    1.2493   -0.3307 H   0  0  0  0  0
+    0.8741    2.1393   -0.3405 H   0  0  0  0  0
+    1.3786    1.2491    1.1160 H   0  0  0  0  0
+    0.6746    0.0003   -1.5788 H   0  0  0  0  0
+    1.3786   -1.2494    1.1156 H   0  0  0  0  0
+    0.8741   -2.1392   -0.3412 H   0  0  0  0  0
+    2.4156   -1.2492   -0.3311 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  1  9  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2 10  1  0  0  0
+  3 11  1  0  0  0
+  3 12  1  0  0  0
+  3 13  1  0  0  0
+  4  5  1  0  0  0
+  4  6  2  0  0  0
+M  CHG  2   4   1   5  -1
+M  END
+>  <likely_enzyme_classes>
+monooxygenase; dioxygenase
+
+>  <activity>
+-10.8
+
+>  <molID>
+mol000005
+
+>  <name>
+2-nitropropane
+
+>  <reference>
+Capel and Larson (1995)
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+CC(C)[N+](=O)[O-]
+
+>  <inchi>
+InChI=1S/C3H7NO2/c1-3(2)4(5)6/h3H,1-2H3
+
+>  <inchikey>
+FGLBSLMDCBOPQK-UHFFFAOYSA-N
+
+$$$$

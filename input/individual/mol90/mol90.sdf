@@ -1,0 +1,65 @@
+Isobutanol
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 15 14  0  0  0  0  0  0  0  0999 V2000
+   -0.6408    1.4374   -0.1446 C   0  0  0  0  0
+   -0.5002   -0.0012    0.3571 C   0  0  0  0  0
+   -1.7542   -0.7955   -0.0138 C   0  0  0  0  0
+    0.7246   -0.6498   -0.2909 C   0  0  0  0  0
+    1.9074    0.0211    0.1485 O   0  0  0  0  0
+    0.2525    2.0033    0.1196 H   0  0  0  0  0
+   -0.7618    1.4342   -1.2279 H   0  0  0  0  0
+   -1.5135    1.8995    0.3170 H   0  0  0  0  0
+   -0.3793    0.0020    1.4404 H   0  0  0  0  0
+   -1.8751   -0.7987   -1.0970 H   0  0  0  0  0
+   -1.6540   -1.8204    0.3437 H   0  0  0  0  0
+   -2.6268   -0.3334    0.4479 H   0  0  0  0  0
+    0.7745   -1.7000   -0.0032 H   0  0  0  0  0
+    0.6452   -0.5736   -1.3753 H   0  0  0  0  0
+    2.7245   -0.3382   -0.2235 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  9  1  0  0  0
+  3 10  1  0  0  0
+  3 11  1  0  0  0
+  3 12  1  0  0  0
+  4  5  1  0  0  0
+  4 13  1  0  0  0
+  4 14  1  0  0  0
+  5 15  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+alcohol dehydrogenase
+
+>  <activity>
+-9.9
+
+>  <molID>
+mol000131
+
+>  <name>
+Isobutanol
+
+>  <reference>
+Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+CC(C)CO
+
+>  <inchi>
+InChI=1S/C4H10O/c1-4(2)3-5/h4-5H,3H2,1-2H3
+
+>  <inchikey>
+ZXEKIIBDNHEJCQ-UHFFFAOYSA-N
+
+$$$$

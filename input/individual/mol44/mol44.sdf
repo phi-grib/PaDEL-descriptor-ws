@@ -1,0 +1,53 @@
+chloromethyl methyl ether
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+  9  8  0  0  0  0  0  0  0  0999 V2000
+   -1.8307    0.6955   -0.1687 C   0  0  0  0  0
+   -1.1910   -0.4464    0.4047 O   0  0  0  0  0
+   -0.0250   -0.8751   -0.3015 C   0  0  0  0  0
+    1.3358    0.2568    0.0419 Cl  0  0  0  0  0
+   -1.1349    1.5344   -0.1800 H   0  0  0  0  0
+   -2.1389    0.4654   -1.1886 H   0  0  0  0  0
+   -2.7064    0.9577    0.4250 H   0  0  0  0  0
+    0.2473   -1.8796    0.0226 H   0  0  0  0  0
+   -0.2305   -0.8820   -1.3720 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  2  3  1  0  0  0
+  3  4  1  0  0  0
+  3  8  1  0  0  0
+  3  9  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+monooxygenase
+
+>  <activity>
+-10.5
+
+>  <molID>
+mol000057
+
+>  <name>
+chloromethyl methyl ether
+
+>  <reference>
+Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+COCCl
+
+>  <inchi>
+InChI=1S/C2H5ClO/c1-4-2-3/h2H2,1H3
+
+>  <inchikey>
+XJUZRXYOEPSWMB-UHFFFAOYSA-N
+
+$$$$

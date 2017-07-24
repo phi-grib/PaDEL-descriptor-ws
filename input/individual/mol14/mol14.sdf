@@ -1,0 +1,61 @@
+methyl ethyl ketone
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    1.9864    0.0028   -0.0000 C   0  0  0  0  0
+    0.7124   -0.8445    0.0001 C   0  0  0  0  0
+   -0.4927    0.0604   -0.0000 C   0  0  0  0  0
+   -1.8789   -0.5308    0.0000 C   0  0  0  0  0
+   -0.3475    1.2593   -0.0001 O   0  0  0  0  0
+    2.0044    0.6319    0.8899 H   0  0  0  0  0
+    2.8580   -0.6518    0.0001 H   0  0  0  0  0
+    2.0044    0.6317   -0.8900 H   0  0  0  0  0
+    0.6944   -1.4736   -0.8899 H   0  0  0  0  0
+    0.6944   -1.4735    0.8901 H   0  0  0  0  0
+   -2.0115   -1.1459    0.8901 H   0  0  0  0  0
+   -2.6162    0.2720   -0.0000 H   0  0  0  0  0
+   -2.0115   -1.1460   -0.8899 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  2  3  1  0  0  0
+  2  9  1  0  0  0
+  2 10  1  0  0  0
+  3  4  1  0  0  0
+  3  5  2  0  0  0
+  4 11  1  0  0  0
+  4 12  1  0  0  0
+  4 13  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+monooxygenase
+
+>  <activity>
+-9.5
+
+>  <molID>
+mol000016
+
+>  <name>
+methyl ethyl ketone
+
+>  <reference>
+Mackay handbook of physical-chemical properties; Capel and Larson (1995)
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+CCC(C)=O
+
+>  <inchi>
+InChI=1S/C4H8O/c1-3-4(2)5/h3H2,1-2H3
+
+>  <inchikey>
+ZWEHNKRNPOVVGH-UHFFFAOYSA-N
+
+$$$$

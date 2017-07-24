@@ -1,0 +1,53 @@
+acrylic acid
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    1.5858   -0.6621    0.0000 O   0  0  0  0  0
+    0.4286    0.0292   -0.0000 C   0  0  0  0  0
+    0.4468    1.2445   -0.0000 O   0  0  0  0  0
+   -0.8548   -0.6864    0.0000 C   0  0  0  0  0
+   -1.9973   -0.0038    0.0000 C   0  0  0  0  0
+    2.4046   -0.1476    0.0000 H   0  0  0  0  0
+   -0.8710   -1.7663    0.0000 H   0  0  0  0  0
+   -2.9406   -0.5298    0.0000 H   0  0  0  0  0
+   -1.9812    1.0760   -0.0000 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  4  7  1  0  0  0
+  5  8  1  0  0  0
+  5  9  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+alkene monooxygenase; hydrolase
+
+>  <activity>
+-9.6
+
+>  <molID>
+mol000034
+
+>  <name>
+acrylic acid
+
+>  <reference>
+Mackay handbook of physical-chemical properties; Howard: Handbook of Environmental Degradation Rates; Capel and Larson (1995)
+
+>  <speciation_state_pH7.4>
+anionic
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+C=CC(=O)O
+
+>  <inchi>
+InChI=1S/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5)
+
+>  <inchikey>
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+
+$$$$

@@ -1,0 +1,67 @@
+3-nitrophenol
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    2.7630   -1.4057   -0.0313 O   0  0  0  0  0
+    1.7910   -0.4559   -0.0186 C   0  0  0  0  0
+    2.1333    0.8883   -0.0096 C   0  0  0  0  0
+    1.1433    1.8520    0.0028 C   0  0  0  0  0
+   -0.1874    1.4776    0.0068 C   0  0  0  0  0
+   -0.5313    0.1381   -0.0022 C   0  0  0  0  0
+    0.4546   -0.8291   -0.0204 C   0  0  0  0  0
+   -1.9569   -0.2593    0.0021 N   0  0  0  0  0
+   -2.8268    0.5932    0.0135 O   0  0  0  0  0
+   -2.2604   -1.4389   -0.0058 O   0  0  0  0  0
+    3.0489   -1.6876    0.8484 H   0  0  0  0  0
+    3.1728    1.1813   -0.0120 H   0  0  0  0  0
+    1.4093    2.8987    0.0098 H   0  0  0  0  0
+   -0.9598    2.2324    0.0172 H   0  0  0  0  0
+    0.1856   -1.8750   -0.0277 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1 11  1  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  3  4  1  0  0  0
+  3 12  1  0  0  0
+  4  5  2  0  0  0
+  4 13  1  0  0  0
+  5  6  1  0  0  0
+  5 14  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  7 15  1  0  0  0
+  8  9  1  0  0  0
+  8 10  2  0  0  0
+M  CHG  2   8   1   9  -1
+M  END
+>  <likely_enzyme_classes>
+monooxygenase; nitroreductase; dioxygenase
+
+>  <activity>
+-9.6
+
+>  <molID>
+mol000006
+
+>  <name>
+3-nitrophenol
+
+>  <reference>
+Mackay handbook of physical-chemical properties
+
+>  <speciation_state_pH7.4>
+neutral
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+O=[N+]([O-])c1cccc(O)c1
+
+>  <inchi>
+InChI=1S/C6H5NO3/c8-6-3-1-2-5(4-6)7(9)10/h1-4,8H
+
+>  <inchikey>
+RTZZCYNQPHTPPL-UHFFFAOYSA-N
+
+$$$$

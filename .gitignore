@@ -1,2 +1,10 @@
 *.class
 *.log
+*.bak
+conf/etoxvault.properties.prod
+conf/etoxvault.properties.github
+target/*
+project/target/*
+project/project/*
+
+

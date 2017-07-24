@@ -1,0 +1,51 @@
+dichloro acetic acid
+ OpenBabel07241711303D
+CORINA evaluation license 3.49 0066  11.04.2013
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    2.2634   -0.2486   -0.2408 O   0  0  0  0  0
+    1.1369    0.4605   -0.0686 C   0  0  0  0  0
+    1.1804    1.5435    0.4655 O   0  0  0  0  0
+   -0.1823   -0.0940   -0.5412 C   0  0  0  0  0
+   -0.4467   -1.7210    0.1894 Cl  0  0  0  0  0
+   -1.5139    1.0134   -0.0401 Cl  0  0  0  0  0
+    3.0853    0.1484    0.0787 H   0  0  0  0  0
+   -0.1715   -0.1810   -1.6277 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  4  8  1  0  0  0
+M  END
+>  <likely_enzyme_classes>
+dehalogenase
+
+>  <activity>
+-10
+
+>  <molID>
+mol000119
+
+>  <name>
+dichloro acetic acid
+
+>  <reference>
+Ellis et al. (2001)
+
+>  <speciation_state_pH7.4>
+anionic
+
+>  <substance_type>
+chemical substance
+
+>  <smiles>
+O=C(O)C(Cl)Cl
+
+>  <inchi>
+InChI=1S/C2H2Cl2O2/c3-1(4)2(5)6/h1H,(H,5,6)
+
+>  <inchikey>
+JXTHNDFMNIQAHM-UHFFFAOYSA-N
+
+$$$$
