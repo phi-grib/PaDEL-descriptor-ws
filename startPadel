@@ -2,8 +2,8 @@
 # 
 ps -eaf | grep play | grep padel > /dev/null
 if [ $? -ne 0 ]; then 
- rm -f /opt/padel/padel218ws/target/universal/stage/RUNNING_PID
+ rm -f target/universal/stage/RUNNING_PID
 fi
-/opt/padel/padel218ws/target/universal/stage/bin/padel_ws -Djava.awt.headless=true &
+target/universal/stage/bin/padel_ws -Djava.awt.headless=true &
 
 
