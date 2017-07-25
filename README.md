@@ -21,15 +21,9 @@ We can measure de difference in computation time:
 Molecule | Computation method | Computation time 
 ---------|--------------------|-------------------
 [mol1](https://github.com/phi-grib/PaDEL-descriptor-ws/blob/master/input/individual/mol1/mol1.sdf)| PaDEL command-line|time ./test_cl_single_molecule.sh <br> real	0m2.487s <br> user	0m5.606s  <br> sys	0m0.442s <br> 
+[Set of 141 molecules](https://github.com/phi-grib/PaDEL-descriptor-ws/tree/master/input/individual)| PaDEL command-line | time ./test_cl_folders.sh <br> real	6m35.709s <br> user	15m28.519s <br> sys	1m1.071s
+
+Molecule | Computation method | Computation time 
+---------|--------------------|-------------------
 [mol1](https://github.com/phi-grib/PaDEL-descriptor-ws/blob/master/input/individual/mol1/mol1.sdf)| PaDEL ws descriptors engine|time ./test_ws_single_molecule.sh <br> real	0m0.260s  <br> user	0m0.005s <br> sys	0m0.015s 
-[Set of 141 molecules](https://github.com/phi-grib/PaDEL-descriptor-ws/tree/master/input/individual)| PaDEL command-line
 [Set of 141 molecules](https://github.com/phi-grib/PaDEL-descriptor-ws/tree/master/input/individual)| PaDEL ws descriptors engine|time ./test_ws_folders.sh <br> real	0m52.643s <br> user	0m0.398s <br> sys	0m0.946s 
-
-
-
-
-
-
-
-
-
