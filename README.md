@@ -18,7 +18,7 @@ So we developed the PaDEL ws descriptors engine that maintains a in-memory ready
 
 By calling the web server we can compute descriptors for the molecules needed without the need to reload PaDEL engine for every individual molecule.
 
-In the current implementation the input molecules must be located in a local folder of the PaDEL ws descriptors engine. The ouput files containg the descriptors computed are also stored locally in the web servver. A possible improvement is to provide an upload molecule mechanism
+In the current implementation the input molecules must be located in a local folder of the PaDEL ws descriptors engine. The ouput files containing the descriptors computed are also stored locally in the web server. A possible improvement is to provide an upload molecule mechanism
 
 We can measure de difference in computation time.
 
@@ -29,7 +29,7 @@ Molecule | Computation method | Computation time
 [mol1](https://github.com/phi-grib/PaDEL-descriptor-ws/blob/master/input/individual/mol1/mol1.sdf)| PaDEL command-line|time ./test_cl_single_molecule.sh <br> real	0m2.487s <br> user	0m5.606s  <br> sys	0m0.442s <br> 
 [Set of 141 molecules](https://github.com/phi-grib/PaDEL-descriptor-ws/tree/master/input/individual)| PaDEL command-line | time ./test_cl_folders.sh <br> real	6m35.709s <br> user	15m28.519s <br> sys	1m1.071s
 
-Using the original PaDEL ws descriptors engine:
+Using the PaDEL ws descriptors engine:
 
 Molecule | Computation method | Computation time 
 ---------|--------------------|-------------------
