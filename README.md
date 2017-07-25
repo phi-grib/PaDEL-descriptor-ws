@@ -36,6 +36,8 @@ Molecule | Computation method | Computation time
 [mol1](https://github.com/phi-grib/PaDEL-descriptor-ws/blob/master/input/individual/mol1/mol1.sdf)| PaDEL ws descriptors engine|time ./test_ws_single_molecule.sh <br> real	0m0.260s  <br> user	0m0.005s <br> sys	0m0.015s 
 [Set of 141 molecules](https://github.com/phi-grib/PaDEL-descriptor-ws/tree/master/input/individual)| PaDEL ws descriptors engine|time ./test_ws_folders.sh <br> real	0m52.643s <br> user	0m0.398s <br> sys	0m0.946s
 
+The throughput of descriptor computation is **increased by 7x** (test dataset).
+
 If you want to obtain further information please contact the author Oriol López Massaguer oriol.lopez@upf.edu
 
 Copyright 2017 Oriol Lopez
