@@ -46,6 +46,6 @@ PaDEL ws descriptors engine is free software: you can redistribute it and/or mod
 
  PaDEL ws descriptors engine is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with eTOXlab. If not, see http://www.gnu.org/licenses/.
+You should have received a copy of the GNU General Public License along with PaDEL ws descriptors engine. If not, see http://www.gnu.org/licenses/.
 
 The research leading to these results has received support from the Innovative Medicines Initiative (IMI) Joint Undertaking under grant agreement n° 115002 (eTOX), resources of which are composed of financial contribution from the European Union’s Seventh Framework Programme (FP7/2007-2013) and EFPIA companies’ in kind contributions.
