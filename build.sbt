@@ -1,11 +1,10 @@
 name := "padel_ws"
 
-version := "1.0"
+version := "1.1"
 
-libraryDependencies ++= Seq(
-  jdbc,
-  anorm,
-  cache
-)     
+libraryDependencies ++= Seq()     
 
-play.Project.playScalaSettings
+scalaVersion := "2.11.11"
+
+lazy val root = (project in file(".")).enablePlugins(PlayScala)
+
