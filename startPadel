@@ -1,9 +1,0 @@
-#!/bin/bash
-# 
-ps -eaf | grep play | grep padel > /dev/null
-if [ $? -ne 0 ]; then 
- rm -f target/universal/stage/RUNNING_PID
-fi
-target/universal/stage/bin/padel_ws -Djava.awt.headless=true &
-
-
